@@ -2,7 +2,7 @@
 
 Operator surface for Apple Business Manager device assignment, MDM handoff posture, zero-touch enrollment readiness, and federated-identity evidence.
 
-- **Live:** [`https://abm.kineticgain.com/`](https://abm.kineticgain.com/) _(pending Hostinger subdomain provisioning)_
+- **Live:** [`https://abm.kineticgain.com/`](https://abm.kineticgain.com/)
 - **Lane:** Identity / Device Trust · Apple signal
 - **Repo:** [`mizcausevic-dev/apple-business-manager-console`](https://github.com/mizcausevic-dev/apple-business-manager-console)
 
